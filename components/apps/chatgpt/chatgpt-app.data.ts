@@ -1,0 +1,13 @@
+export const suggestedPrompts = [
+  "What's Skyfury's tech stack?",
+  "Tell me about his projects",
+  "Where is he based?",
+  "How can I contact him?",
+  "What's his work experience?",
+  "Is he open to opportunities?",
+  "Help Me..!!",
+  "Where has he graduated from and when?"
+]
+
+export const greetingMessage =
+  "Hi! I'm Skyfury's AI assistant. Ask me anything about his skills, projects, experience, or how to reach him."
